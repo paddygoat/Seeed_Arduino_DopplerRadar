@@ -7,13 +7,13 @@ This library is for DopplerRadar. This DopplerRadar can get the relative speed o
 ## Hardware requirements
 
 - Wio Terminal
-- cable
+- grove cable to male pins.
 - Grove DopplerRadar(BGT24LTR11)
 
-### connection of the hardware
+### Connection of the hardware
+Use grove cable colour coded pins as in photo:
+![Optional Text](../master/images/RadarWiring.JPG)
 
-
-Connect DopplerRadar to the serial port of the board.In this example, we use hardware serial as the serial port; If you have other software Serial ports on you board, you can also connect to it.But software serial port may cause data loss.
 
 ## Usage
 
