@@ -2,12 +2,12 @@
 
 ![Optional Text](../master/images/Radar.JPG)
 
-This library  DopplerRadar.This DopplerRadar can get the speed of the target and the state of the target's movement.
+This library is for DopplerRadar. This DopplerRadar can get the relative speed of the target and the state of the target's movement. It can not detect relatively static objects or objects that move sideways relative to the device.
 
 ## Hardware requirements
 
-- Arduino Zero
-- Grove Shield and a cable
+- Wio Terminal
+- cable
 - Grove DopplerRadar(BGT24LTR11)
 
 ### connection of the hardware
@@ -17,7 +17,7 @@ Connect DopplerRadar to the serial port of the board.In this example, we use har
 
 ## Usage
 
-- Git clone this resp to your Arduino IDE'S libraries directory.
+- Download BGT24LTR11.zip and use Arduino library include zip to install library.
 
 - Run the demo "BGT24LTR11_DETECTION_TARGET" on examples directory.
 
