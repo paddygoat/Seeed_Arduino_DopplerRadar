@@ -1,5 +1,7 @@
 # Seeed_Arduino_Grove_DopplerRadar  [![Build Status](https://travis-ci.com/Seeed-Studio/Seeed_Arduino_DopplerRadar.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Seeed_Arduino_DopplerRadar)
 
+![Optional Text](../master/images/Radar.JPG)
+
 This library  DopplerRadar.This DopplerRadar can get the speed of the target and the state of the target's movement.
 
 ## Hardware requirements
