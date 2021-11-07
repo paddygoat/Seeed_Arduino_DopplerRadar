@@ -2,7 +2,7 @@
 
 ![Optional Text](../master/images/Radar.JPG)
 
-This library is for DopplerRadar. This DopplerRadar can get the relative speed of the target and the state of the target's movement. It can not detect relatively static objects or objects that move sideways relative to the device.
+This library is for DopplerRadar. This DopplerRadar can get the relative speed of the target and the state of the target's movement ie backwards and frowards. It can not detect relatively static objects or objects that move sideways relative to the device.
 
 ## Hardware requirements
 
