@@ -7,7 +7,7 @@ This library is for DopplerRadar. This DopplerRadar can get the relative speed o
 ## Hardware requirements
 
 - Wio Terminal
-- grove cable to male pins.
+- Grove cable to male pins.
 - Grove DopplerRadar(BGT24LTR11)
 
 ### Connection of the hardware
